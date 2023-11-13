@@ -1,5 +1,6 @@
 # Databases-MySQL
 ● Create Database - Orange HRM
+
 ● I have created the Employee and Dependent table in the OrangeHRM database.
 ● I have created a link between the 2 tables using primary and foreign keys.
 ● I created insert, update, delete, drop, alter and truncate instructions.
